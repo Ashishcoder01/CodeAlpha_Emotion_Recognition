@@ -1,0 +1,17 @@
+{
+    "sample_rate": 22050,
+    "n_mfcc": 40,
+    "max_pad_len": 174,
+    "normalization": "per_sample",
+    "num_classes": 8,
+    "classes": [
+        "angry",
+        "calm",
+        "disgust",
+        "fearful",
+        "happy",
+        "neutral",
+        "sad",
+        "surprised"
+    ]
+}
